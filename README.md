@@ -7,6 +7,10 @@ Codes for paper "ADM: Adaptive Graph Diffusion for Meta-Dimension Reduction."
 ## Environment Requirements
 
 ```shell
+# Make sure you have lfs
+git lfs install
+
+# R
 R version 4.3.1 
 ```
 
